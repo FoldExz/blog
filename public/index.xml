@@ -14,17 +14,49 @@
       
       <guid>http://localhost:1313/posts/workshop-1/</guid>
       
-      <description>&lt;p&gt;Today, I attended a &lt;strong&gt;workshop on Remote Work for Gen Z&lt;/strong&gt; at &lt;strong&gt;Kedai Dee Aksara&lt;/strong&gt; from 3:00 PM to 5:00 PM WIB, led by &lt;strong&gt;Kak Naufal Fakhri&lt;/strong&gt; (&lt;a href=&#34;https://www.linkedin.com/in/naufal-fakhri-517214144/&#34;&gt;LinkedIn&lt;/a&gt;). The entry fee was &lt;strong&gt;Rp 20k&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/workshop-1/kak-naufal.jpg&#34; alt=&#34;Kak Naufal explaining&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;overview-&#34;&gt;Overview 🌟&lt;/h3&gt;
-&lt;p&gt;Kak Naufal shared his experience &lt;strong&gt;working remotely for the past 2 years&lt;/strong&gt; and why remote work is valuable:&lt;/p&gt;
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/workshop-1/kak-naufal.jpg&#34;
+    alt=&#34;Kak Naufal Fakhri leading the workshop at Kedai Dee Aksara&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Workshop: Remote Work for Gen Z&lt;/h4&gt;&lt;p&gt;Kak Naufal Fakhri leading the workshop at Kedai Dee Aksara&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; ✨&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Time flexibility&lt;/strong&gt;: Work when you are most productive&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Global opportunities&lt;/strong&gt;: Join international companies requiring digital skills&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: Balance work and life while staying productive&lt;/li&gt;
+&lt;li&gt;Attended &amp;ldquo;Remote Work for Gen Z&amp;rdquo; workshop led by Kak Naufal Fakhri at Kedai Dee Aksara (3:00–5:00 PM WIB).&lt;/li&gt;
+&lt;li&gt;Core message: remote work requires niche, proof-based portfolios, strong English, and deliberate positioning.&lt;/li&gt;
+&lt;li&gt;Actionable framework: Prepare → Learn → Problem → Proof → CTA.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;He emphasized that &lt;strong&gt;knowing your niche market&lt;/strong&gt; and building a &lt;strong&gt;strong portfolio (CV 2.0)&lt;/strong&gt; are critical.&lt;/p&gt;</description>
+&lt;hr&gt;
+&lt;h3 id=&#34;event-details&#34;&gt;Event details&lt;/h3&gt;
+&lt;p&gt;When: 3:00 PM — 5:00 PM WIB, September 13, 2025&lt;br&gt;
+Where: Kedai Dee Aksara&lt;br&gt;
+Speaker: Kak Naufal Fakhri (&lt;a href=&#34;https://www.linkedin.com/in/naufal-fakhri-517214144/&#34;&gt;LinkedIn&lt;/a&gt;)&lt;br&gt;
+Fee: Rp 20,000&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mastersystem Seminar: Strengthening Cloud Operations with Smart Security</title>
+      <link>http://localhost:1313/posts/seminar-1/</link>
+      <pubDate>Thu, 11 Sep 2025 21:35:28 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/seminar-1/</guid>
+      
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/seminar-1/discussion.jpg&#34;
+    alt=&#34;Packed session: &amp;lsquo;Strengthening Cloud Operations with Smart Security and Protection&amp;rsquo;&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Mastersystem Seminar at Sheraton Hotel, Surabaya&lt;/h4&gt;&lt;p&gt;Packed session: &amp;lsquo;Strengthening Cloud Operations with Smart Security and Protection&amp;rsquo;&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; ✨&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Attended a Mastersystem seminar on cloud security &amp;amp; operations (vendors: AWS, Fortinet, Infoblox, Veeam).&lt;/li&gt;
+&lt;li&gt;🎯 Key sessions: AWS Q Developer, Fortinet product overview, vendor panel on security &amp;amp; load balancing.&lt;/li&gt;
+&lt;li&gt;📚 Personal takeaway: study for AWS Solutions Architect and learn Fortinet fundamentals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;On September 11, 2025, I had the opportunity to attend the seminar &lt;strong&gt;&amp;ldquo;Strengthening Cloud Operations with Smart Security and Protection&amp;rdquo;&lt;/strong&gt; held at Sheraton Hotel, Surabaya. The program, scheduled from 09:00 to 17:00. Featured several vendors and speakers, including representatives from Mastersystem Infotama, AWS, Fortinet, Infoblox, and Veeam. I arrived at 12:30 due to an unexpected class obligation.&lt;/p&gt;</description>
       
     </item>
     

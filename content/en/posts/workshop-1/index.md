@@ -7,76 +7,87 @@ tocOpen = true
 isStarred = true
 +++
 
-Today, I attended a **workshop on Remote Work for Gen Z** at **Kedai Dee Aksara** from 3:00 PM to 5:00 PM WIB, led by **Kak Naufal Fakhri** ([LinkedIn](https://www.linkedin.com/in/naufal-fakhri-517214144/)). The entry fee was **Rp 20k**.
+{{< figure src="kak-naufal.jpg" title="Workshop: Remote Work for Gen Z" caption="Kak Naufal Fakhri leading the workshop at Kedai Dee Aksara" >}}
 
-![Kak Naufal explaining](kak-naufal.jpg)
+**TL;DR** ✨
 
----
-
-### Overview 🌟
-
-Kak Naufal shared his experience **working remotely for the past 2 years** and why remote work is valuable:
-
-- **Time flexibility**: Work when you are most productive  
-- **Global opportunities**: Join international companies requiring digital skills  
-- **Flexibility**: Balance work and life while staying productive  
-
-He emphasized that **knowing your niche market** and building a **strong portfolio (CV 2.0)** are critical.
+- Attended "Remote Work for Gen Z" workshop led by Kak Naufal Fakhri at Kedai Dee Aksara (3:00–5:00 PM WIB).  
+- Core message: remote work requires niche, proof-based portfolios, strong English, and deliberate positioning.  
+- Actionable framework: Prepare → Learn → Problem → Proof → CTA.  
 
 ---
 
-### Platforms to Find Remote Work 🌐
+### Event details
 
-**Project-based platforms:** Upwork, Fiverr, Fastwork  
-**Full-time remote:** Glints, Toptal, We Work Remotely, Remote.com  
-**Startups:** Tech in Asia  
-**Direct applications:** Indeed, LinkedIn, or company websites (apply via website or email HR)  
-
----
-
-### Must-Have Skills 🗝️
-
-- **English fluency** – practice continuously  
-- **Portfolio** – show real evidence of your work  
+When: 3:00 PM — 5:00 PM WIB, September 13, 2025  
+Where: Kedai Dee Aksara  
+Speaker: Kak Naufal Fakhri ([LinkedIn](https://www.linkedin.com/in/naufal-fakhri-517214144/))  
+Fee: Rp 20,000
 
 ---
 
-### Action Framework 🛠️
+### Overview
 
-Kak Naufal recommends a **3-step approach**:
+Kak Naufal shared his experience working remotely for the past two years and explained why remote work is more than flexible hours — it’s a _strategy_. Key benefits he highlighted:
 
-1. **Prepare** – Build 3 types of portfolio samples  
-2. **Learn** – Attend bootcamps or short courses to strengthen skills  
-3. **Problem → Proof → CTA** – Present a challenge you solved, show proof in your portfolio, and include a clear Call-to-Action  
+- **Time flexibility** — work when you’re most productive.  
+- **Global opportunities** — access to companies worldwide if you have the right skills.  
+- **Work–life balance** — remote setups can support both productivity and wellbeing.
 
----
-
-### Crafting a Freelance Header ✏️
-
-Use this 1-line freelance headline format:  
-
-**[Role] who helps [target audience] achieve [specific outcome] in [timeframe]**  
-
-**Examples from the workshop:**  
-
-- *Network Engineer who helps small-to-medium businesses validate and deploy resilient, low-downtime network architectures under one week.*  
-- *Network Trainer who helps 30-student cohorts achieve an 80% MTCNA pass rate in a 2-day intensive bootcamp.*  
+He stressed the importance of finding a niche market and building a strong, proof-based portfolio (CV 2.0).
 
 ---
 
-### Personal Notes & Insights 💡
+### Platforms to find remote work
 
-- **Work style**:  
-  - Introverts → invest in a cozy workspace  
-  - Extroverts (like Kak Naufal) → work in cafes and meet friends  
-- **Portfolio proof** is key – dummy projects are fine to demonstrate skills  
-- **Framing & branding**: be result-oriented, quantify achievements  
-- **Specialization matters**: pick your expertise and refine continuously  
-- **Manifest**, **Aone Schools**, **Algonova** – words/concepts to note  
+- Project-based: Upwork, Fiverr, Fastwork  
+- Full-time remote: Glints, Toptal, We Work Remotely, Remote.com  
+- Startup jobs: Tech in Asia  
+- Direct applications: Indeed, LinkedIn, company career pages (apply via website or email HR)
 
 ---
 
-Remote work is **not just about flexibility**. It’s about strategic preparation, continuous learning, and measurable results. By following this framework, Gen Z freelancers can confidently navigate the global remote work landscape.
+### Must-have skills 🗝️
 
-Snack bonus pic
-![Snack bonus pic](snack.jpg)
+- English fluency — practice consistently (speaking, writing, reading).  
+- Portfolio with proof — show real outcomes (projects, metrics, case studies) — dummy projects okay if clearly framed.
+
+---
+
+### Action framework — Problem → Proof → CTA 🛠️
+
+A short roadmap recommended by Kak Naufal:
+
+1. **Prepare** — Build three types of portfolio samples (e.g., case study, demo, real client work).  
+2. **Learn** — Join bootcamps or short courses to level up relevant skills.  
+3. **Problem → Proof → CTA** — For each portfolio item, describe the problem, show proof (results/artifacts), and add a clear CTA (how to hire/contact you).
+
+---
+
+### Freelance header (1-line)
+
+Use this formula:
+
+>[Role] who helps [target audience] achieve [specific outcome] in [timeframe]
+
+Examples:
+
+- *Network Engineer who helps SMBs deploy resilient network architectures under one week.*  
+- *Network Trainer who helps 30 students pass MTCNA with an 80% pass rate in a 2-day bootcamp.*
+
+---
+
+### Notes & practical tips 💡
+
+- Work style advice: Introverts → create a cozy home setup; Extroverts → work in cafes and network.  
+- Branding: Quantify results and lead with outcomes.  
+- Specialize: Choose a niche and deepen expertise rather than being a generalist.  
+- Keywords to explore later: Manifest, Aone Schools, Algonova.
+
+---
+
+Remote work is not just about flexibility; it’s about building a repeatable, measurable way to deliver value. For Gen Z freelancers, the combination of focused skills, visible proof, and clear messaging is the fastest path to steady remote income.
+
+{{< figure src="snack.jpg" title="Snack pict bonus" caption="A small snack break during the workshop" >}}
+
+---

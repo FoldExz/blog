@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veeam on FoldExz Blog</title>
+    <link>http://localhost:1313/tags/veeam/</link>
+    <description>Recent content in Veeam on FoldExz Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Sep 2025 21:35:28 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/veeam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastersystem Seminar — Strengthening Cloud Operations with Smart Security</title>
+      <link>http://localhost:1313/posts/seminar-1/</link>
+      <pubDate>Thu, 11 Sep 2025 21:35:28 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/seminar-1/</guid>
+      
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/mastersystem-event-hero.webp&#34;
+    alt=&#34;Packed session: &amp;lsquo;Strengthening Cloud Operations with Smart Security and Protection&amp;rsquo;&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Mastersystem Seminar at Sheraton Hotel, Surabaya&lt;/h4&gt;&lt;p&gt;Packed session: &amp;lsquo;Strengthening Cloud Operations with Smart Security and Protection&amp;rsquo;&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; ✨&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Attended a Mastersystem seminar on &lt;strong&gt;cloud security &amp;amp; operations&lt;/strong&gt; (vendors: AWS, Fortinet, Infoblox, Veeam).&lt;/li&gt;
+&lt;li&gt;🎯 Key sessions: &lt;strong&gt;AWS Q Developer&lt;/strong&gt;, &lt;strong&gt;Fortinet product overview&lt;/strong&gt;, vendor panel on security &amp;amp; load balancing.&lt;/li&gt;
+&lt;li&gt;📚 Personal takeaway: study for &lt;strong&gt;AWS Solutions Architect&lt;/strong&gt; and learn &lt;strong&gt;Fortinet&lt;/strong&gt; fundamentals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;On September 11, 2025, I had the opportunity to attend the seminar &lt;strong&gt;&amp;ldquo;Strengthening Cloud Operations with Smart Security and Protection&amp;rdquo;&lt;/strong&gt; held at Sheraton Hotel, Surabaya. The program — scheduled from 09:00 to 17:00 — featured several vendors and speakers, including representatives from Mastersystem Infotama, AWS, Fortinet, Infoblox, and Veeam. I arrived at &lt;strong&gt;12:30&lt;/strong&gt; due to an unexpected class obligation.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
